@@ -1,7 +1,7 @@
 # Horiseon
 
 ## Purpose
-A marketing agency that offers to helps businesses optimize their web performance for customers.
+A marketing agency that offers to help businesses optimize their web performance for customers.
 
 ## Built With
 * HTML
